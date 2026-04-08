@@ -26,6 +26,10 @@ const projectData = {
   "sobready": {
     title: "Sob Ready",
     link: "https://sob-ready-one.vercel.app/"
+  },
+   "Ibso todo": {
+    title: "Ibso Todo",
+    link: "https://to-do-eight-ashen.vercel.app/"
   }
 };
 
