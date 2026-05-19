@@ -1,7 +1,8 @@
 import { motion } from "framer-motion";
 import { 
   SiHtml5,  SiJavascript, SiReact, 
-  SiTailwindcss, SiRedux, SiSass, SiVite 
+  SiTailwindcss, SiRedux, SiSass, SiVite,
+  SiTypescript, SiNextdotjs
 } from "react-icons/si";
 import { FaGraduationCap, FaLaptopCode } from "react-icons/fa";
 
@@ -9,7 +10,9 @@ import { FaGraduationCap, FaLaptopCode } from "react-icons/fa";
 const skillList = [
   { name: "HTML", icon: <SiHtml5 />, color: "text-[#e34c26]" },
   { name: "JavaScript", icon: <SiJavascript />, color: "text-[#f7df1e]" },
+  { name: "TypeScript", icon: <SiTypescript />, color: "text-[#3178c6]" },
   { name: "React", icon: <SiReact />, color: "text-[#61dbfb]" },
+  { name: "Next.js", icon: <SiNextdotjs />, color: "text-[#ffffff]" },
   { name: "Tailwind", icon: <SiTailwindcss />, color: "text-[#38bdf8]" },
   { name: "Redux", icon: <SiRedux />, color: "text-[#764abc]" },
   { name: "Sass", icon: <SiSass />, color: "text-[#cc6699]" },
