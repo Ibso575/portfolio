@@ -6,7 +6,9 @@ const skills = [
   { name: "JAVASCRIPT", percentage: 80 },
   { name: "REACT.JS", percentage: 85 },
   { name: "TAILWIND CSS", percentage: 90 },
-  { name: "AI PROMPTING", percentage: 75 }, // AI qobiliyati
+  { name: "AI PROMPTING", percentage: 75 },
+  { name: "TypeScript", percentage: 85 },
+  { name: "Next.js", percentage: 75 }, // AI qobiliyati
 ];
 
 export default function About() {
