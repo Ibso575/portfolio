@@ -7,26 +7,23 @@ const images = import.meta.glob("../assets/*.{png,jpg,jpeg,svg,webp}", { eager: 
 // 2. Havolalar va ularga mos ma'lumotlar
 // DIQQAT: Kalit so'zlar (feather, repair) assets'dagi rasm nomi bilan BIR XIL bo'lishi shart
 const projectData = {
-  "feather": {
-    title: "Feather Pearl",
-    link: "https://feather-pearl.vercel.app/"
+  "booking": {
+    title: "Booking-clone",
+    link: "https://bookingclone-orcin.vercel.app/uz"
   },
   "plant project": { // Agar rasm nomi "plant project.png" bo'lsa, bu yerda ham probel bo'lishi kerak
     title: "Plant project",
     link: "https://exam-6-oy-chi.vercel.app/"
   },
-  "repair": {
-    title: "Repair Service",
-    link: "https://repair-gray.vercel.app/"
+  "cat": {
+    title: "Cat",
+    link: "https://cat-project-ruddy.vercel.app/"
   },
-  "linkedchek": {
-    title: "LinkedTech",
-    link: "https://linkedtech-nine.vercel.app/"
+  "foodzy": {
+    title: "Foodzy",
+    link: "https://green-store-topaz.vercel.app/"
   },
-  "sobready": {
-    title: "Sob Ready",
-    link: "https://sob-ready-one.vercel.app/"
-  },
+
    "Ibso todo": {
     title: "Ibso Todo",
     link: "https://to-do-eight-ashen.vercel.app/"
