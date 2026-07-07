@@ -10,6 +10,7 @@ import {
   SiRedux,
   SiVite,
 } from "react-icons/si";
+import { FaGithub, FaInstagram, FaLinkedinIn, FaTelegramPlane } from "react-icons/fa";
 
 
 export default function Hero() {
