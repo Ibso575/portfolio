@@ -15,9 +15,9 @@ const projectData = {
     title: "Plant project",
     link: "https://exam-6-oy-chi.vercel.app/"
   },
-  "cat": {
-    title: "Cat",
-    link: "https://cat-project-ruddy.vercel.app/"
+  "colordrop": {
+    title: "color-extension",
+    link: "https://github.com/Ibso575/colordrop"
   },
   "foodzy": {
     title: "Foodzy",
