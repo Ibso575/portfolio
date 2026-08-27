@@ -11,9 +11,9 @@ const projectData = {
     title: "Booking-clone",
     link: "https://bookingclone-orcin.vercel.app/uz"
   },
-  "plant project": { // Agar rasm nomi "plant project.png" bo'lsa, bu yerda ham probel bo'lishi kerak
-    title: "Plant project",
-    link: "https://exam-6-oy-chi.vercel.app/"
+  "AI chatbot": { // Agar rasm nomi "plant project.png" bo'lsa, bu yerda ham probel bo'lishi kerak
+    title: "AI chatbot",
+    link: "hhttps://chatbot-reactjs-tau.vercel.app/"
   },
   "colordrop": {
     title: "color-extension",
