@@ -107,20 +107,6 @@ export default function Hero() {
           >
             developer
           </motion.h2>
-
-          <div className="flex gap-4">
-            {[FaGithub, FaInstagram, FaLinkedinIn, FaTelegramPlane].map(
-              (Icon, i) => (
-                <motion.div
-                  key={i}
-                  whileHover={{ y: -5, backgroundColor: "#ff6b00" }}
-                  className="w-12 h-12 flex items-center justify-center rounded-full border border-gray-800 bg-gray-900 text-gray-400 hover:text-white cursor-pointer transition-colors"
-                >
-                  <Icon size={20} />
-                </motion.div>
-              ),
-            )}
-          </div>
         </div>
 
         {/* O'ng tomon: Markazlashgan Aylanuvchi doira (Responsive Radius) */}
