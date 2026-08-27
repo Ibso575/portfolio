@@ -13,7 +13,7 @@ const projectData = {
   },
   "AI chatbot": { // Agar rasm nomi "plant project.png" bo'lsa, bu yerda ham probel bo'lishi kerak
     title: "AI chatbot",
-    link: "hhttps://chatbot-reactjs-tau.vercel.app/"
+    link: "https://chatbot-reactjs-tau.vercel.app/"
   },
   "colordrop": {
     title: "color-extension",
